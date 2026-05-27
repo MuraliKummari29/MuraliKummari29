@@ -15,9 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/MuraliKummari29">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vC
-  enter=true&width=800&height=45&lines=Salesforce+Developer+%7C+Software+%26+AI+Engineer;Apex+%E2%80%A2+LWC+%E2%80%A2+Python+%E2
-  %80%A2+LLM+%2F+RAG+Pipelines;Building+scalable%2C+reliable%2C+intelligent+systems." alt="Typing SVG" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=45&lines=Salesforce+Developer+%7C+Software+%26+AI+Engineer;Apex+%E2%80%A2+LWC+%E2%80%A2+Python+%E2%80%A2+LLM+%2F+RAG+Pipelines;Building+scalable%2C+reliable%2C+intelligent+systems."alt="Typing SVG" 
       />
   </a>
 </p>
