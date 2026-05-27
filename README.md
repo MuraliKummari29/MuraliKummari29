@@ -1,9 +1,3 @@
-<!-- ============================================================= -->
-<!--  PROFILE README for github.com/MuraliKummari29                -->
-<!--  Paste this entire file into the README.md of the repo named  -->
-<!--  "MuraliKummari29" (must match your username exactly).        -->
-<!-- ============================================================= -->
-
 <a href="https://github.com/MuraliKummari29">
   <img src="https://komarev.com/ghpvc/?username=MuraliKummari29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </a>
@@ -15,8 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/MuraliKummari29">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=45&lines=Salesforce+Developer+%7C+Software+%26+AI+Engineer;Apex+%E2%80%A2+LWC+%E2%80%A2+Python+%E2%80%A2+LLM+%2F+RAG+Pipelines;Building+scalable%2C+reliable%2C+intelligent+systems."alt="Typing SVG" 
-      />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=45&lines=Salesforce+Developer+%7C+Software+%26+AI+Engineer;Apex+%E2%80%A2+LWC+%E2%80%A2+Python+%E2%80%A2+LLM+%2F+RAG+Pipelines;Building+scalable%2C+reliable%2C+intelligent+systems." alt="Typing SVG" />
   </a>
 </p>
 
@@ -92,6 +85,15 @@ I'm a **Software & AI Engineer** and **5x-certified Salesforce Developer** with 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuraliKummari29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
 </p>
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuraliKummari29/MuraliKummari29/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuraliKummari29/MuraliKummari29/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
