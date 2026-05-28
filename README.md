@@ -61,6 +61,29 @@ I'm a **Software & AI Engineer** and **5x-certified Salesforce Developer** with 
 
 ---
 
+## Featured Project
+
+<p align="center">
+  <a href="https://github.com/MuraliKummari29/atlas-service-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuraliKummari29&repo=atlas-service-agent&theme=tokyonight&show_owner=false" alt="Atlas Service Agent" />
+  </a>
+</p>
+
+**🚀 [Atlas — Cross-Platform AI Member Support Agent](https://github.com/MuraliKummari29/atlas-service-agent)**
+
+A **Salesforce Agentforce** custom action that calls an external **Python RAG microservice** via Named Credentials. Every response runs through an **LLM-as-judge guardrail** (groundedness + safety) before reaching a service rep. Answers are grounded on real CMS documents and enriched with **live openFDA** drug recall data.
+
+- 🧠 **RAG** — pgvector hybrid search (semantic + keyword, fused by RRF) over public CMS/Medicare docs
+- 🛡️ **Guardrail** — LLM-as-judge scores every answer for groundedness + safety; below threshold → `needs_review` with rationale
+- 💊 **Live data** — `api.fda.gov` integration surfaces real drug labels & recalls in real time
+- 🧪 **Evals-in-CI** — golden-dataset regression gate fails the build on quality drops
+- ⚙️ **Reliability** — bounded timeouts, retries, graceful degradation when upstream APIs are down
+- 🔗 **End-to-end live demo** — runs on a real Salesforce dev org + Render-hosted FastAPI service
+
+**Stack:** Apex · LWC · Named Credentials · FastAPI · pgvector (Neon) · Gemini 2.5 Flash · openFDA · Docker · GitHub Actions
+
+---
+
 ## Salesforce Certifications
 
 ![Administrator](https://img.shields.io/badge/Certified-Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
