@@ -65,7 +65,7 @@ I'm a **Software & AI Engineer** and **5x-certified Salesforce Developer** with 
 
 <p align="center">
   <a href="https://github.com/MuraliKummari29/atlas-service-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuraliKummari29&repo=atlas-service-agent&theme=tokyonight&show_owner=false" alt="Atlas Service Agent" />
+    <img src="https://github-readme-stats-delta-hazel.vercel.app/api/pin/?username=MuraliKummari29&repo=atlas-service-agent&theme=tokyonight&show_owner=false" alt="Atlas Service Agent" />
   </a>
 </p>
 
@@ -97,16 +97,12 @@ A **Salesforce Agentforce** custom action that calls an external **Python RAG mi
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuraliKummari29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliKummari29&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-delta-hazel.vercel.app/api?username=MuraliKummari29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-delta-hazel.vercel.app/api/top-langs/?username=MuraliKummari29&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuraliKummari29&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuraliKummari29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 ---
